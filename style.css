@@ -1,0 +1,25 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+body{
+    background-color:blueviolet;
+}
+#topHeader h2{
+    font-family:Verdana, Tahoma, sans-serif, arial;
+    font-weight:700;
+    font-size:50px;
+    color:#fff;
+    text-align:center;
+    padding:20px; 
+    text-decoration:underline;  
+}
+#topHeader p{
+    font-family:arial;
+    font-weight:300;
+    color:#eee;
+    font-size:18px;
+    padding:10px 20px;
+    text-align:justify;
+
+}
